@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "super-bidding",
+  "private_key_id": "e8a363a801f5c86d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBs15h6H9kc07jLfrTMdM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-.gserviceaccount.com",
+  "client_id": "1060507629097",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/-bidding.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
